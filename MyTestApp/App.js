@@ -107,7 +107,7 @@ const App = () => {
   return (
     <SafeAreaView>
       <View>
-        <Text style={{ fontSize: 20, alignSelf: 'center' }}>ทดสอบ ค้นหา text ใน array</Text>
+        <Text style={{ fontSize: 20, alignSelf: 'center' }}>ทำแบบทดสอบ ค้นหา text ใน array</Text>
         <Text style={{ marginTop: 5, fontSize: 15, alignSelf: 'center' }}>hellotata! Result = {result}</Text>
 
         <View style={{ marginTop: 30, marginLeft: 10 }}>
